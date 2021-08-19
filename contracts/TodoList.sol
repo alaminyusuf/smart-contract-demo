@@ -2,6 +2,6 @@
 
 pragma solidity ^0.5.16;
 
-contract Todolist {
+contract TodoList {
    uint public taskCount;
 }
